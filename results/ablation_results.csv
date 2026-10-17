@@ -1,0 +1,4 @@
+variant,val macro-F1,test macro-F1,test accuracy,per-seed test macro-F1
+"Reference: cased, class weights",0.669 ± 0.004,0.663 ± 0.008,0.661 ± 0.007,"[0.663, 0.672, 0.654]"
+No class weights,0.674 ± 0.005,0.671 ± 0.004,0.668 ± 0.004,"[0.67, 0.667, 0.675]"
+Lowercased input,0.669 ± 0.003,0.668 ± 0.012,0.665 ± 0.011,"[0.68, 0.672, 0.651]"

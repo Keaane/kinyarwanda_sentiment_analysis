@@ -1,0 +1,8 @@
+model,val macro-F1,test macro-F1,test accuracy
+"AfroXLMR-base, lr 2e-5",0.669 ± 0.004,0.663 ± 0.008,0.661 ± 0.007
+"AfroXLMR-base, lr 5e-5",0.661 ± 0.007,0.668 ± 0.006,0.665 ± 0.006
+"XLM-R base, lr 2e-5",0.558 ± 0.015,0.540 ± 0.019,0.554 ± 0.013
+"AfroXLMR-large, lr 1e-5",0.704 ± 0.008,0.707 ± 0.008,0.704 ± 0.009
+TF-IDF word + LR (baseline),0.579,0.567,0.562
+TF-IDF char + LR (baseline),0.642,0.597,0.595
+BiLSTM + Word2Vec (fine-tuned),0.612 ± 0.006,0.580 ± 0.002,0.578 ± 0.001

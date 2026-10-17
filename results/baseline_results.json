@@ -1,0 +1,26 @@
+{
+  "tfidf_word_LR (val)": {
+    "accuracy": 0.5768,
+    "macro_precision": 0.5781,
+    "macro_recall": 0.5809,
+    "macro_f1": 0.5792
+  },
+  "tfidf_word_LR (test)": {
+    "accuracy": 0.5624,
+    "macro_precision": 0.5681,
+    "macro_recall": 0.5671,
+    "macro_f1": 0.567
+  },
+  "tfidf_char_LR (val)": {
+    "accuracy": 0.6409,
+    "macro_precision": 0.6412,
+    "macro_recall": 0.6452,
+    "macro_f1": 0.6417
+  },
+  "tfidf_char_LR (test)": {
+    "accuracy": 0.5945,
+    "macro_precision": 0.5966,
+    "macro_recall": 0.6038,
+    "macro_f1": 0.5972
+  }
+}

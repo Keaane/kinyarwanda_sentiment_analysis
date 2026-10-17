@@ -1,0 +1,4 @@
+model,macro-F1,macro-F1 95% CI,accuracy,accuracy 95% CI
+TF-IDF word + LR,0.567,"[0.536, 0.598]",0.562,"[0.531, 0.595]"
+TF-IDF char + LR,0.597,"[0.567, 0.627]",0.595,"[0.565, 0.625]"
+AfroXLMR-large (final),0.697,"[0.668, 0.723]",0.693,"[0.664, 0.720]"
