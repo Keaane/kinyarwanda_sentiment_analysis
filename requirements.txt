@@ -1,0 +1,12 @@
+# Notebooks (Google Colab, GPU for 03, 03b, 03c)
+datasets
+transformers
+torch
+scikit-learn
+scipy
+pandas
+numpy
+matplotlib
+seaborn
+gensim
+huggingface_hub

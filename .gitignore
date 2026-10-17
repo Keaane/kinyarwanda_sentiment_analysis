@@ -1,0 +1,7 @@
+final_model/
+*.safetensors
+*.bin
+.env
+*token*
+__pycache__/
+.ipynb_checkpoints/
